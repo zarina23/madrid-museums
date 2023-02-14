@@ -1,0 +1,8 @@
+body {
+    background-color: #212529;
+}
+
+.bg-secondary {
+    --bs-bg-opacity: 75%;
+}
+
